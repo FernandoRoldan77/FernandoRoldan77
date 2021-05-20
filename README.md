@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombres es Fernando
+- 👋 Hola, mi nombre es Fernando
 - 👀 Mis intereses son la musica, los videos juegos y la lectura
 - 🌱 Actualmente cursando la carrera de Programacion Informatica
 - 💞️ Buscando mi primera oportunidad en el sector IT
