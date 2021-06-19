@@ -1,5 +1,4 @@
 - 👋 Hola, mi nombre es Fernando
-- 👀 Mis intereses son la música, los videos juegos y la lectura
 - 🌱 Actualmente cursando la carrera de Programacion Informatica
 - 💞️ Buscando mi primera oportunidad en el sector IT
 - 📫 roldan.jonatanfernando@gmail.com
